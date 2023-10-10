@@ -1,3 +1,3 @@
 # first repo local
 
-idhr se direct git seekhenge
+learning to push repo from local to git directly
